@@ -1,0 +1,21 @@
+Expriment 2-1, iteration 200k, temperature decrease from 200, cooling rate:0.95 
+SA, temperature, 200, Evaluation Function, 3700.812168905315, time, 193
+SA, temperature, 190, Evaluation Function, 3769.957553828961, time, 165
+SA, temperature, 180, Evaluation Function, 3772.7675943286863, time, 185
+SA, temperature, 170, Evaluation Function, 3732.102401037476, time, 183
+SA, temperature, 160, Evaluation Function, 3689.6994858709018, time, 187
+SA, temperature, 150, Evaluation Function, 3702.196970544044, time, 184
+SA, temperature, 140, Evaluation Function, 3729.8557399857127, time, 182
+SA, temperature, 130, Evaluation Function, 3703.805942052256, time, 182
+SA, temperature, 120, Evaluation Function, 3710.9090834788303, time, 184
+SA, temperature, 110, Evaluation Function, 3719.162129060633, time, 190
+SA, temperature, 100, Evaluation Function, 3771.4842304359518, time, 180
+SA, temperature, 90, Evaluation Function, 3776.0088384704636, time, 184
+SA, temperature, 80, Evaluation Function, 3722.9865332098407, time, 182
+SA, temperature, 70, Evaluation Function, 3802.2191827263805, time, 179
+SA, temperature, 60, Evaluation Function, 3695.995117552022, time, 171
+SA, temperature, 50, Evaluation Function, 3702.1570607963636, time, 160
+SA, temperature, 40, Evaluation Function, 3752.291824950985, time, 167
+SA, temperature, 30, Evaluation Function, 3769.7222617602647, time, 165
+SA, temperature, 20, Evaluation Function, 3618.2606630819655, time, 167
+SA, temperature, 10, Evaluation Function, 3684.155753977377, time, 162
